@@ -1,19 +1,110 @@
-Vaga
-====
+Vagas
+=====
+* Área de Entretenimento
+* Área de Webmedia
+* Área de Plataformas Sociais
+ 
 
-[Preencha aqui a vaga que você pretende]
+#Eng. Germán Araújo Melogno, PMP
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
-CV
-==
+##Dados Pessoais
+***
+* Nome: Germán Araújo
+* Identidade.: 4.609.180-5
+* Telefone: (00 598) 99  327 314
+* E-mail : araujomelogno@gmail.com
+* Data de Nascimento: 19/10/1987
+* Skype: araujomelogno
 
-[Preencha aqui o seu cv]
+##Experiência Profissional
+***
+###TELEMEDIOS / Equipos MORI Consultores –emprego atual 
+* Data de começo: Fevereiro de 2010
+* Área: Sistemas
+* Papel: Encarregado da área  de Sistemas
+* Tarefas  realizadas: 
+	* Gerenciamento  de projetos informáticos.
+	* Desenho  de processos de trabalho. 
+	* Desenvolvimento de aplicações.
+	* Treinamento em gestão de projetos com o framework  PMI 
+	* Desenho e consultoria de soluções de BI (OLAP e scorecards) 
+	* Liderança em desenvolvimento de software
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+###Consultoria Independiente (agência imobiliária Santos Dumont Punta del Este) –Abril 2012- Maio 2012
+* Projeto: “Administração de lojas ”
+* Tarefas realizadas:
+	* Desenvolvimento de um sistema de administração de lojas WEB usando tecnologias JSF 2.0 (Prime Faces)
+	* [Site do sistema](http://107.20.195.121:8080/LocalesSD/)  (disponível para fazer provas com usuário:demo senha:demo)
+	
+
+###Consultoria Independiente no Chile (Entel PCS/GEOCOM S.A.) –Junho 2011- Dezembro 2011
+* Projeto: “Portabilidad Numérica ENTEL PCS”
+* Tarefas realizadas:
+	* Relevamento de requerimentos (viajando a Chile para validação).
+	* Planejamento  de custos, tempos y riscos
+	* Desenho e implantação  da solução 
+
+
+###UCUDAL Universidad  Católica del Uruguay –Março 2010 – Dezembro 2010
+* Data de começo : Março  2010 
+* Área: Cátedra Base de Dados
+* Papel: Ajudante 
+* Tarefas realizadas: 
+	* Colaboração ao titular da cátedra  do curso. 
+
+###GEOCOM  S.A - Julho de 2008 – Fevereiro de 2010
+* Data de começo: Julho de 2008 
+* Área: Soluções  Informáticas
+* Papel: Desenvolvedor 
+* Tarefas  realizadas: 
+	* Desenvolvimento de sistemas de ponto de vendas no exterior (em Chile particularmente). 
+	* Elaboração da documentação referente ao desenho do sistema.           
+	* Ensino  do curso de UML na área de desenvolvimento e QA .
+
+* Tecnologias utilizadas: 
+	* Java
+	* JSF
+	* Maven
+	* Spring 
+	* Hibernate 
+
+
+
+
+##Formação  Acadêmica
+***
+2011 Universidad ORT URUGUAY
+Máster em  Gerencia de Empresas Tecnológicas (en curso).
+2006 - 2010       Universidad Católica del Uruguay
+Engenharia  em Computação  (Promédio:  5.30/6)
+
+
+
+
+##Certificações 
+***
+* Project Manager Professional (PMP # 1436375) - PMI
+* Certified Scrum Master – Scrum Alliance
+* Gestão  de Projetos Globais de TI. KDC-TCS
+
+
+
+##Informática                                
+***
+* Java
+* J2EE
+* JSF 
+* C#
+* Base de Dados 
+* Linux
+* Asterisk
+* Business Intelligence  (O3, Mondrian/Pentaho)
+
+
+##Idiomas
+***
+* Inglês: Avançado 
+* Português: Avançado 
+* Espanhol: Nativo
+ 
